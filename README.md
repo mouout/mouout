@@ -4,7 +4,7 @@
 ## My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?html,css,js,i=git,bootstrap,mysql,php,codepen,github,tailwind,react,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,mysql,php,codepen,github,tailwind,react,sass" />
   </a>
 </p>
 <!--
