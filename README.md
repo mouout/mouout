@@ -1,14 +1,14 @@
-### Hi there 👋
+# Hi there 👋 I'm OUTMANE
 
-
-## My Tech Stack:
+  
+## 💻 My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,mysql,php,codepen,github,tailwind,react,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,mysql,php,codepen,github,tailwind,react,sass,vscode,vercel&perline=7" />
   </a>
 </p>
 
-## A Quote:
+## 💡 A Quote:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
