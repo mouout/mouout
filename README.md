@@ -6,7 +6,7 @@ _A **Junior** Full Stack Developer_
 ## 💻 My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,mysql,php,codepen,github,tailwind,react,sass,vscode,vercel&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,mysql,php,codepen,github,tailwind,react,sass,vscode,vercel,typescript,&perline=7" />
   </a>
 </p>
 
