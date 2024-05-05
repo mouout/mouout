@@ -13,7 +13,7 @@ _A **Junior** Full Stack Developer_
 ## 💡 A Quote:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
+<a href="https://app.daily.dev/mou_outmane"><img src="https://api.daily.dev/devcards/v2/uL0Z8BfP6p5pbLydeHAcb.png?r=41z" width="356" alt="MOU OUTMANE's Dev Card"/></a>
 <!--
 **mouout/mouout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
